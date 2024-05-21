@@ -1,0 +1,4 @@
+/* CSS Document */
+
+#globalContainer .redtext { display: none; }
+#mainContent .redtext { font-family: "Poppins", sans-serif; font-size: 32px; color: red; display:none; }
